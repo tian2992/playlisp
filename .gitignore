@@ -1,0 +1,4 @@
+venv/*
+pandas/*
+*.pyc
+.ipynb_checkpoints/*
